@@ -1,0 +1,205 @@
+{"frames": [
+
+{
+	"filename": "AssassinIdle0407.png",
+	"frame": {"x":1,"y":1,"w":635,"h":941},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":385,"y":122,"w":635,"h":941},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0408.png",
+	"frame": {"x":1,"y":944,"w":639,"h":942},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":384,"y":121,"w":639,"h":942},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0409.png",
+	"frame": {"x":675,"y":1888,"w":642,"h":943},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":383,"y":120,"w":642,"h":943},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0410.png",
+	"frame": {"x":1319,"y":1888,"w":647,"h":943},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":381,"y":120,"w":647,"h":943},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0412.png",
+	"frame": {"x":1,"y":2833,"w":654,"h":944},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":378,"y":119,"w":654,"h":944},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0413.png",
+	"frame": {"x":657,"y":2833,"w":656,"h":944},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":378,"y":119,"w":656,"h":944},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0414.png",
+	"frame": {"x":1315,"y":2833,"w":659,"h":944},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":376,"y":119,"w":659,"h":944},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0415.png",
+	"frame": {"x":1976,"y":2833,"w":662,"h":944},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":375,"y":119,"w":662,"h":944},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0416.png",
+	"frame": {"x":2640,"y":2833,"w":665,"h":944},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":373,"y":119,"w":665,"h":944},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0417.png",
+	"frame": {"x":3307,"y":2833,"w":667,"h":944},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":372,"y":119,"w":667,"h":944},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0418.png",
+	"frame": {"x":1968,"y":1888,"w":669,"h":943},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":371,"y":120,"w":669,"h":943},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0419.png",
+	"frame": {"x":2639,"y":1888,"w":672,"h":943},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":369,"y":120,"w":672,"h":943},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0420.png",
+	"frame": {"x":3313,"y":1888,"w":674,"h":943},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":368,"y":120,"w":674,"h":943},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0421.png",
+	"frame": {"x":642,"y":944,"w":676,"h":942},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":366,"y":121,"w":676,"h":942},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0422.png",
+	"frame": {"x":1320,"y":944,"w":677,"h":942},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":366,"y":121,"w":677,"h":942},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0423.png",
+	"frame": {"x":1999,"y":944,"w":678,"h":942},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":365,"y":121,"w":678,"h":942},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0424.png",
+	"frame": {"x":638,"y":1,"w":679,"h":941},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":364,"y":122,"w":679,"h":941},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0425.png",
+	"frame": {"x":1319,"y":1,"w":680,"h":941},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":363,"y":122,"w":680,"h":941},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0426.png",
+	"frame": {"x":2001,"y":1,"w":679,"h":941},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":364,"y":122,"w":679,"h":941},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0427.png",
+	"frame": {"x":2682,"y":1,"w":679,"h":941},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":364,"y":122,"w":679,"h":941},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0428.png",
+	"frame": {"x":3363,"y":1,"w":678,"h":941},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":365,"y":122,"w":678,"h":941},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0429.png",
+	"frame": {"x":2679,"y":944,"w":677,"h":942},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":366,"y":121,"w":677,"h":942},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0430.png",
+	"frame": {"x":3358,"y":944,"w":675,"h":942},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":368,"y":121,"w":675,"h":942},
+	"sourceSize": {"w":1600,"h":1200}
+},
+{
+	"filename": "AssassinIdle0431.png",
+	"frame": {"x":1,"y":1888,"w":672,"h":942},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":370,"y":121,"w":672,"h":942},
+	"sourceSize": {"w":1600,"h":1200}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "assassinIdle1.png",
+	"format": "RGBA8888",
+	"size": {"w":4042,"h":3778},
+	"scale": "1",
+	"related_multi_packs": [ "data0.json", "data2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:35e81bed279307230df3dac4e6fc041d:45b6111be330c2128634ceb9565b654f:92163dc14cbec0605cfb8b81ffcc38f0$"
+}
+}
