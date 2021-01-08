@@ -10,6 +10,7 @@
 
 
 
+
 using namespace std;
 
 struct frame
@@ -28,6 +29,7 @@ struct frame
 struct oneMove
 {
 	string nameOfFile;
+	nlohmann::json jsonFile;
 	std::vector<frame> move;
 };
 

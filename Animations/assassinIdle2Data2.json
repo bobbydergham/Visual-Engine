@@ -1,109 +1,6696 @@
-{"frames": [
-
 {
-	"filename": "AssassinIdle0432.png",
-	"frame": {"x":1,"y":1,"w":670,"h":943},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":372,"y":120,"w":670,"h":943},
-	"sourceSize": {"w":1600,"h":1200}
-},
-{
-	"filename": "AssassinIdle0433.png",
-	"frame": {"x":673,"y":1,"w":665,"h":944},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":375,"y":119,"w":665,"h":944},
-	"sourceSize": {"w":1600,"h":1200}
-},
-{
-	"filename": "AssassinIdle0434.png",
-	"frame": {"x":1340,"y":1,"w":661,"h":944},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":378,"y":119,"w":661,"h":944},
-	"sourceSize": {"w":1600,"h":1200}
-},
-{
-	"filename": "AssassinIdle0435.png",
-	"frame": {"x":2003,"y":1,"w":658,"h":944},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":380,"y":119,"w":658,"h":944},
-	"sourceSize": {"w":1600,"h":1200}
-},
-{
-	"filename": "AssassinIdle0436.png",
-	"frame": {"x":2663,"y":1,"w":654,"h":945},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":383,"y":118,"w":654,"h":945},
-	"sourceSize": {"w":1600,"h":1200}
-},
-{
-	"filename": "AssassinIdle0437.png",
-	"frame": {"x":3319,"y":1,"w":650,"h":945},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":385,"y":118,"w":650,"h":945},
-	"sourceSize": {"w":1600,"h":1200}
-},
-{
-	"filename": "AssassinIdle0438.png",
-	"frame": {"x":1,"y":948,"w":647,"h":946},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":387,"y":117,"w":647,"h":946},
-	"sourceSize": {"w":1600,"h":1200}
-},
-{
-	"filename": "AssassinIdle0439.png",
-	"frame": {"x":650,"y":948,"w":642,"h":946},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":390,"y":117,"w":642,"h":946},
-	"sourceSize": {"w":1600,"h":1200}
-},
-{
-	"filename": "AssassinIdle0440.png",
-	"frame": {"x":1294,"y":948,"w":639,"h":946},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":392,"y":117,"w":639,"h":946},
-	"sourceSize": {"w":1600,"h":1200}
-},
-{
-	"filename": "AssassinIdle0441.png",
-	"frame": {"x":1935,"y":948,"w":635,"h":946},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":394,"y":117,"w":635,"h":946},
-	"sourceSize": {"w":1600,"h":1200}
-},
-{
-	"filename": "AssassinIdle0442.png",
-	"frame": {"x":2572,"y":948,"w":632,"h":946},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":396,"y":117,"w":632,"h":946},
-	"sourceSize": {"w":1600,"h":1200}
-},
-{
-	"filename": "AssassinIdle0443.png",
-	"frame": {"x":3206,"y":948,"w":629,"h":946},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":398,"y":117,"w":629,"h":946},
-	"sourceSize": {"w":1600,"h":1200}
-}],
-"meta": {
-	"app": "https://www.codeandweb.com/texturepacker",
-	"version": "1.0",
-	"image": "assassinIdle2.png",
-	"format": "RGBA8888",
-	"size": {"w":3970,"h":1895},
-	"scale": "1",
-	"related_multi_packs": [ "data0.json", "data1.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:35e81bed279307230df3dac4e6fc041d:45b6111be330c2128634ceb9565b654f:92163dc14cbec0605cfb8b81ffcc38f0$"
+    "frames": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ],
+    "meta": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ]
 }
+{
+    "frames": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ],
+    "meta": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ]
+}
+{
+    "frames": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ],
+    "meta": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ]
+}
+{
+    "frames": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ],
+    "meta": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ]
+}
+{
+    "frames": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ],
+    "meta": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ]
+}
+{
+    "frames": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ],
+    "meta": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ]
+}
+{
+    "frames": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ],
+    "meta": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ]
+}
+{
+    "frames": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ],
+    "meta": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ]
+}
+{
+    "frames": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ],
+    "meta": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ]
+}
+{
+    "frames": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ],
+    "meta": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ]
+}
+{
+    "frames": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ],
+    "meta": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ]
+}
+{
+    "frames": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ],
+    "meta": [
+        {
+            "filename": "AssassinIdle0432.png",
+            "frame": {
+                "h": 943,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 670,
+                "x": 1,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 943,
+                "w": 670,
+                "x": 372,
+                "y": 120
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0433.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 665,
+                "x": 673,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 665,
+                "x": 375,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0434.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 661,
+                "x": 1340,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 661,
+                "x": 378,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0435.png",
+            "frame": {
+                "h": 944,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 658,
+                "x": 2003,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 944,
+                "w": 658,
+                "x": 380,
+                "y": 119
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0436.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 654,
+                "x": 2663,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 654,
+                "x": 383,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0437.png",
+            "frame": {
+                "h": 945,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 650,
+                "x": 3319,
+                "y": 1
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 945,
+                "w": 650,
+                "x": 385,
+                "y": 118
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0438.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 647,
+                "x": 1,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 647,
+                "x": 387,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0439.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 642,
+                "x": 650,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 642,
+                "x": 390,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0440.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 639,
+                "x": 1294,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 639,
+                "x": 392,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0441.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 635,
+                "x": 1935,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 635,
+                "x": 394,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0442.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 632,
+                "x": 2572,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 632,
+                "x": 396,
+                "y": 117
+            },
+            "trimmed": true
+        },
+        {
+            "filename": "AssassinIdle0443.png",
+            "frame": {
+                "h": 946,
+                "moveLeft": 0,
+                "moveUp": 0,
+                "w": 629,
+                "x": 3206,
+                "y": 948
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 1200,
+                "w": 1600
+            },
+            "spriteSourceSize": {
+                "h": 946,
+                "w": 629,
+                "x": 398,
+                "y": 117
+            },
+            "trimmed": true
+        }
+    ]
 }

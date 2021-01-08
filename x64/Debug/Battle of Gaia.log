@@ -1,5 +1,27 @@
 ﻿  Animator.cpp
+c:\users\bobby\desktop\battle of gaia\animator.h(8): fatal error C1083: Cannot open include file: 'dirent.h': No such file or directory
+  Assassin.cpp
+  AudioManager.cpp
   Battle of Gaia.cpp
+c:\users\bobby\desktop\battle of gaia\animator.h(8): fatal error C1083: Cannot open include file: 'dirent.h': No such file or directory
+  Battle.cpp
+  CharacterSelect.cpp
+  Demon.cpp
   Game.cpp
+c:\users\bobby\desktop\battle of gaia\animator.h(8): fatal error C1083: Cannot open include file: 'dirent.h': No such file or directory
+  GameObjectManager.cpp
+  MainMenu.cpp
+  Monk.cpp
+  Multiplayer.cpp
+  Necromancer.cpp
+  onlineMenu.cpp
+  Player.cpp
+  SplashScreen.cpp
+  stdafx.cpp
+  VisibleObjectManager.cpp
+  Warrior.cpp
   Generating Code...
-  Battle of Gaia.vcxproj -> C:\Users\bobby\Desktop\Battle of Gaia_Multiplayer\x64\Debug\Battle of Gaia.exe
+c:\users\bobby\desktop\battle of gaia\onlinemenu.cpp(60): warning C4715: 'onlineMenu::showMenu': not all control paths return a value
+c:\users\bobby\desktop\battle of gaia\mainmenu.cpp(155): warning C4715: 'MainMenu::show': not all control paths return a value
+c:\users\bobby\desktop\battle of gaia\characterselect.cpp(269): warning C4715: 'CharacterSelect::forceSelect': not all control paths return a value
+c:\users\bobby\desktop\battle of gaia\characterselect.cpp(214): warning C4715: 'CharacterSelect::setCharacter': not all control paths return a value

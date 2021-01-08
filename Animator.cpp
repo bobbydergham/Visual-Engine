@@ -179,7 +179,7 @@ vector<MoveGroup> Animator::groupMultiSheetGroupsTogether()
     //exampe NinjaStar1Data1.json = NinjaStar
     string nameTemplate = currentMoveName.substr(0, currentMoveName.length() - 11);
 
-    for (int i = 0; i <= listOfAllMoves.size(); i++)
+    for (int i = 0; i < listOfAllMoves.size(); i++)
     {
          currentMoveName = listOfAllMoves[i].nameOfFile;
 
@@ -286,6 +286,14 @@ void Animator::animateCurrentMove(sf::RenderWindow& renderWindow, sf::Event even
                     else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Right)) xAxis += 5;
                     else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Up)) yAxis -= 5;
                     else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Down)) yAxis += 5;
+                    //save buttonk
+                    else if (eventTrigger == 1)
+                    {
+                        for (int g = 0; j < listOfMovesByGroup[i].moveGroup.size()-1; g++)
+                        {
+                            SaveMove(listOfMovesByGroup[i].moveGroup[g]);
+                        }
+                    }
                     else if (eventTrigger == 2)
                     {
                         eventTrigger = 0;
@@ -346,6 +354,7 @@ void Animator::animateCurrentMove(sf::RenderWindow& renderWindow, sf::Event even
                         renderWindow.draw(currentPixelDisplay);
 
                         renderWindow.pollEvent(event);
+                        
                         //moves a single frame around
                         if (sf::Keyboard::isKeyPressed(sf::Keyboard::Left)) listOfMovesByGroup[i].moveGroup[j].move[k].moveLeft += 1;
                         else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Right))listOfMovesByGroup[i].moveGroup[j].move[k].moveLeft -= 1;
@@ -378,6 +387,7 @@ void Animator::animateCurrentMove(sf::RenderWindow& renderWindow, sf::Event even
                                 }
                             }
                         }
+
                         else if (eventTrigger == 2)
                         {
                             eventTrigger = 0;
@@ -397,6 +407,7 @@ void Animator::animateCurrentMove(sf::RenderWindow& renderWindow, sf::Event even
                                 }
                             }
                         }
+                        
                         //previous frame button
                         else if (eventTrigger == 5)
                         {
@@ -575,6 +586,8 @@ void Animator::loadAllFiles()
         json frameKey;
         json onlyCoord;
         inputStream >> jsonFile;
+        oneMove tempMove;
+        tempMove.jsonFile = jsonFile;
 
 
         for (auto iterator = jsonFile.begin(); iterator != jsonFile.end(); iterator++)
@@ -585,7 +598,7 @@ void Animator::loadAllFiles()
             }
         }
 
-        oneMove tempMove;
+        
 
         //runs through
         for (int i = 0; i < frameKey.size(); i++)
@@ -655,21 +668,40 @@ vector<sf::Texture> Animator::loadAllTextures(vector<MoveGroup> moveGroups)
 
 void Animator::SaveMove(oneMove currentMove)
 {
-    /*string temp = "";
-    struct dirent* entry;
-    DIR* dir = opendir("Animations/");
+    using json = nlohmann::json;
 
-    if (dir == NULL) return;
-    while ((entry = readdir(dir)) != NULL)
+
+    json frameKey;
+    // write prettified JSON to another file
+    std::ofstream output("Animations/" + currentMove.nameOfFile);
+    //output << currentMove.jsonFile.dump(4) << std::endl;
+
+
+    for (int i = 0; i < currentMove.move.size(); i++)
     {
-        temp = entry->d_name;
-        temp.length();
-        if (temp.length() > 5)
+        for (auto iterator = currentMove.jsonFile.begin(); iterator != currentMove.jsonFile.end(); iterator++)
         {
-            if (temp.substr(temp.length() - 4, temp.length()) == ".png") nameOfImageFiles.push_back(temp);
-            else if (temp.substr(temp.length() - 5, temp.length()) == ".json") nameOfJSONFiles.push_back(temp);
-        }
-    }
-    closedir(dir);*/
+            if (iterator.key() == "frames")
+            {
+                frameKey = iterator.value();
+            }
+            //runs through
+            for (int i = 0; i < frameKey.size(); i++)
+            {
+                for (auto it = frameKey[i].begin(); it != frameKey[i].end(); it++)
+                {
+                    if (it.key() == "frame")
+                    {
+                        //j["object"] = { {"currency", "USD"}, {"value", 42.99} };
+                        json frames = { {"x", currentMove.move[i].x}, {"y", currentMove.move[i].y }, {"h", currentMove.move[i].height}, {"w", currentMove.move[i].width},
+                                        {"moveLeft", currentMove.move[i].moveLeft}, {"moveUp", currentMove.move[i].moveUp} };
 
+                        it.value() = frames;
+                    }
+                }
+            }
+            iterator.value() = frameKey;
+        }
+        output << currentMove.jsonFile.dump(4) << std::endl;
+    }
 }
